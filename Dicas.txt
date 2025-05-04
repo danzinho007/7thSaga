@@ -1,0 +1,230 @@
+Série Mystic Ark :
+
+23 Abril 1993 = JAP - エルナード / Elnard > SNES
+Setembro 1993 = USA - The 7th Saga > SNES
+29 Janeiro 1994 = JAP - Brain Lord / ブレインロード > SNES
+01 Outubro 1994 = USA - Brain Lord > SNES
+14 Julho 1995 = JAP - Mystic Ark / ミスティックアーク  > SNES
+1999 = JAP - Mystic Ark: Maboroshi Gekijo (まぼろし劇場; Theatre of Illusions > PSX
+
+Fonte : https://strategywiki.org/wiki/Category:Mystic_Ark
+
+Banco de Dados
+http://mikesrpgcenter.com/7thsaga/index.html
+
+Manual
+https://www.gamesdatabase.org/Media/SYSTEM/Nintendo_SNES//Manual/formated/The_7th_Saga_-_1993_-_Enix_Corporation.pdf
+
+GameFaq
+https://gamefaqs.gamespot.com/snes/563501-the-7th-saga/faqs
+
+RomHacking
+https://www.romhacking.net/games/1046/
+
+Wikipedia 
+
+EN
+https://en.wikipedia.org/wiki/The_7th_Saga
+PT BR
+https://pt.wikipedia.org/wiki/The_7th_Saga
+
+Informações do cartucho
+https://snescentral.com/article.php?id=0083
+
+Análise
+http://alvanista.com/games/snes/the-7th-saga/reviews/796764-a-setima-saga
+
+Quiz pra ver qual dos 7 personagens combina com você
+https://pt.quizur.com/quiz/qual-e-o-seu-personagem-ideal-em-the-7th-saga-snes-4au2
+
+SNES - 7th Saga
+
+Elf
+HP 14
+MP 16
+Pow 3
+Gua 3
+Mag 4
+Spd 4
+Wea 1
+Def 1
+EX 18
+
+Human 
+HP 16
+MP 04
+Pow 4
+Gua 4
+Mag 3
+Spd 3
+Wea 2
+Def 1
+EX 21
+
+Bola de Cristal = Ajuda procurar as runas
+Bonro = vila
+Brantu = historiador
+Brush
+Castle of Aran = Castelo de Aran
+Caverna de Melenam
+Crystal Ball = Bola de Cristal , ajuda a procurar runas
+Dark World
+Gain
+Gate Of Earth = Portão da Terra , localiza-se em Rablesk
+Kamil = Guerreiro
+Key of Earth = Chave da Terra , está no Castelo de Aran
+King Lemele = Rei , filho do Saro
+Lejes
+Lemele = Ilha
+Lux = Seu corpo se transforma quando ele necessita de arma , deseja procurar quem criou os Tetujins e qual seu propósito
+Melenam
+Olvan = Dwarf , se diz o mais forte de todos , é lento por causa da idade , quer ser jovem denovo com a força das runas
+Pandam
+Pison = Caçador de Recompensas
+Portão da Terra = Rablesk
+Rablesk = Sul da vila inicial
+Red-Pison
+Romus
+Runas
+Runa do Vento
+Rune
+Saro
+Seven Runes = 7 Runas escondidas
+Tetujin
+Ticondera = Planeta
+Valsu = Sua força é mágica com o poder de cura
+Wilme
+Zellis = West de Bonro
+
+Itens :
+Antídoto 9 = Cura veneno
+B Protect = Dobra defesa quando usado em batalha
+B Fire = Ataca inimigo com Fogo
+M Water = Revive companheiro
+Potn 1 = Recupera 40 de Vida
+Potn 2 = Recupera 90 de Vida
+B Power = Dobra ataque quando usado em batalha
+B Fossil = Petrifica o inimigo
+Mirror = Reflete petrificar antes de acontecer
+
+33.757 = Experiência total
+4.872 = Quanto falta pra upar
+
+Hermit  12G 26exp
+Wyvern  15G 33exp
+Demon   15G 33exp
+Chimera 16G 35exp
+Statue  14G 30exp
+Undead  40G 88exp
+Fire = 32-47
+Romus = 240G
+Fire = 31-44
+
+Pison = 120G 264exp
+F Bird = 39
+Fire = 41-54
+ 
+Despair
+Ice 2 = 75-112
+Bliard 1 = 70
+
+Undead
+Dano -16
+Ice = 74 dano
+
+Romus = Boss que tem a Chave da Terra
+Ice = 45 dano
+Ice 2 = 77 ...
+
+Pison = Boss da Caverna do Sul
+Blizzard = 64
+Ice 2 = 85
+
+Chefe da caverna Melenam
+B Fossil = 2x não funcionou
+Blizzard 1 = 35
+Fire = 35-48
+Fire Bird = 35
+Ice 2 = 65-77
+Vaccum = Não funcionou
+
+Brain 
+-Fire 
+-Ice 1 = 43
+-Ice 2 = 78
+
+Lux
+Blizzard 2 = 38
+HP Catcher = 2x não funcionou
+Ice 2 = 42
+MP Catcher - não funcionou
+Petrify = 2x não funcionou
+Vacuuum = não funcionou
+
+4.390 > 2.195
+31.992 
+429
+
+Dicionário :
+
+along = ao longo
+
+B
+bounty
+brought = trouxeram
+business
+
+C
+care = cuidado
+D
+deal
+drive
+due
+dwarf = anão
+east = leste
+envy = inveja
+ever = sempre
+
+F
+faded = desbotado , sem cor
+faintest = mais fraco
+fancy = fantasia
+farewell = despedida
+fellow = fraco
+fortunate
+fought = lutou
+further = adicional
+
+gone = perdido
+grant = conceder
+granted = condição de 
+haven't = não tenho
+hope = ter esperança
+ill = doente
+left
+might
+miss
+perish = morrer , acabar
+quite
+sharpen = afiado
+scars = cicatrizes
+so = tão
+sorrow = tristeza
+southwest = sudoeste
+suited = adequado
+surface = superfície
+
+T
+take = levar
+talked = falou
+tough = resistente
+trouble = dificuldade
+turned
+upon = sob
+until = até
+vanished = desapareceu
+vessel = embarcação
+while = enquanto
+who = quem
+wish = desejar
+wondering = perguntando
