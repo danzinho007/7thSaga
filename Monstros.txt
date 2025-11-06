@@ -1,0 +1,26 @@
+7thSaga_Monstros:
+
+-Nome : Dinheiro e Experiência
+Vida / Mana / Magias / Itens
+
+-Hermit 12G 26 Ex
+18 / 0 / X / Potion_1
+
+-Statue 14G 30 Ex
+50 / 0 
+
+-Demon 15G 33Ex
+30 / 30 / Defense_2,Heal_1 / Potion_1
+
+-Wyvern 15G 33 Ex
+21 / 0 / X / Potion_1
+
+-Chimera 18G 35 Ex
+40 / 30 / MpCtchr / MpHerb_1
+
+
+7thSaga_Chefes:
+
+Boss_Romus 240G 528Ex
+300 / 110 / Hpctchr 
+

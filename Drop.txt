@@ -1,0 +1,10 @@
+7thSaga_Drop:
+
+Set_1:
+Opal Opal
+Set_2:
+Potion_1 = 4/16 > 1/4 0,25 ( Editei )
+Set_3:
+MHerb_1 = 4/16 > 1/4 0,25 ( Editei )
+Set_4:
+MHerb_1 MHerb_1 Potion_1

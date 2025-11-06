@@ -1,0 +1,36 @@
+7thSaga_CRC32:
+
+Original:
+
+7th Saga, The (USA) - NOINTRO
+CRC32: B3ABDDE6
+
+Minha_Versao:
+
+Database match: not found
+Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
+File/ROM SHA-1: 6CB4DDEF43E45488286B02B59A5AE7B8E918EB33
+File/ROM CRC32: 99052C5B
+
+Hackrom:
+
+Database match: not found 
+Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
+File/ROM SHA-1: 1622D5B074F9D1D69693D2EA83AC866A6F21B7F8
+File/ROM CRC32: 7CF4516D 7th_elnard_magicfix.sfc
+
+Randomizada:
+
+Database match: not found
+Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
+File/ROM SHA-1: 6F6D4122D83912F0F1C9B89D312D9F260DC6A24B
+File/ROM CRC32: 2A24823B
+
+Não salva:
+
+Database match: not found
+Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
+File SHA-1: F911978DF60C104415B38810141EDA3C2885A937
+File CRC32: 6C1C30C
+ROM SHA-1: 7BA1531D809E91598746D39C4230B283A6D763AA
+ROM CRC32: D825D3FF

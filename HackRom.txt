@@ -1,0 +1,85 @@
+7thSaga_HackRom:
+
+New_Class
+https://www.romhacking.net/hacks/1541/
+
+Entre suas muitas falhas, uma fraqueza de The 7th Saga era que os personagens eram quase cópias exatas uns dos outros, limitando o valor de replay. Neste hack, baseado nas melhorias já feitas no hack 7th Saga Redux , os personagens receberam classes familiares baseadas em Final Fantasy 1, com atributos e magias diferentes. Como esta versão pode ser jogada com o mínimo de grinding, é muito mais fácil experimentar cada classe e aprender seu estilo de jogo único. As classes:
+
+RedMage (Kamil): Completo em todas as áreas
+Guerreiro (Olvan): Guerreiro físico forte com magia de cura
+Bl.Mage (Esuna): Mago ofensivo poderoso
+Bl.Belt (Wilme): Especialista em combate desarmado
+Robô (Lux): O tanque defensivo definitivo
+Wh.Mage (Valsu): Mago de cura e suporte
+Ladrão (Lejes): Mestre da furtividade e da sabotagem
+
+Saga_Redux:
+https://www.romhacking.net/hacks/421/
+
+7th Saga foi um RPG desafiador e original para SNES, mas sofria com uma dificuldade absurda e uma progressão de níveis tediosa. Este hack tenta resolver a dificuldade para que o jogo seja desafiador sem ser frustrante, e adicionar alguns elementos divertidos para expandir a estratégia. Equipamentos e magias de ataque foram fortalecidos. Mais inimigos receberam fraquezas elementais. Novos equipamentos e magias foram introduzidos. Mudanças adicionais estão descritas no leia-me.
+
+New Game Plus
+
+---------------------------------------------------------------------
+7th Saga HardLife version 0.7
+Started by Tedrainbow, August 2, 2022
+
+Version 0.7
+All Items,Weapon and armor is 50% more cost the price.
+THe all Héro is -1 all stats base and Growth only.
+The spell is more high level to learn and nope learn nothing magic for average level, 1 and 2.
+The all magic is down 50% effet and + 50% cost magic.
+The all monster add X 3 HP and MP and +1 all stats base, Power, Guard, Magic, Speed.
+Adjuste Base HP X5 and MP X3 basic for begin all hero.
+
+Stat Basic Level 1.
+Kalim   
+Basique starter stats.
+75 HP, 9 MP, 3 Power, 3 Guard, 2 Magic, 2 Speed
+Normal LV Magic learn, Fire 1= 5, Heal 1= 9, Purify= 12, Firebird= 15, Heal 2= 18, Ice 1= 23, Petrify= 26, Fire 2= 29, Vacuum 1= 33, Revive 1= 42, Heal 3= 55, Fireball= 69.
+LV UP
+3-5 HP, 1-3 MP, 1-3 Power, 1-3 Guard, 1-3 Magic, 1-3 Speed
+
+Olvan   
+Basique starter stats.
+85 HP, 6 MP, 3 Power, 4 Guard, 2 Magic, 2 Speed
+Normal LV Magic learn, Heal 1= 5, Fire 1= 8, Petrify= 12, Defense 1= 17, Fire 2= 22, Heal 2= 29, Purify= 38, MPCatcher= 49, Heal 3= 61, Revive 1= 75.
+LV UP
+4-6 HP, 0-2 MP, 1-3 Power, 1-3 Guard, 1-3 Magic, 1-3 Speed
+
+Esuna   
+Basique starter stats.
+65 HP, 45 MP, 2 Power, 2 Guard, 3 Magic, 3 Speed
+Normal LV Magic learn, Ice 1= 3, HPCatcher= 6, MPCatcher= 10, Heal 1= 15, Purify= 12, Ice 2= 17, Blizzard 1= 20, Petrify= 25, Power= 29, Vacuum 1= 33, Defense 1= 37, Blizzard 2= 41, Protect= 46, Revive 1= 51, Heal 3= 58, Vacuum 2= 66.
+LV UP
+3-5 HP, 3-5 MP,0-2 Power, 0-2 Guard, 2-4 Magic, 2-4 Speed
+
+Wilme   
+Basique starter stats.
+95 HP, 3 MP, 4 Power, 6 Guard, 1 Magic, 3 Speed
+Normal LV Magic learn, Fire 1= 7, HPCatcher= 11, Firebird= 15, Fire 2= 20, MPCatcher= 25, Fireball= 33, Vacuum 1= 43.
+LV UP
+6-8 HP, 0-2 MP, 2-4 Power, 3-5 Guard, 0-2 Magic, 2-4 Speed
+
+Lux   
+Basique starter stats.
+85 HP, 6 MP, 4 Power, 5 Guard, 2 Magic, 2 Speed
+Normal LV Magic learn, Laser 1= 6, Laser 2= 11, Thunder 1= 17, Laser 3= 22, Thunder 2= 33
+LV UP
+5-7 HP, 0-2 MP, 2-4 Power, 3-5 Guard, 1-3 Magic, 1-3 Speed
+
+Valsu   
+Basique starter stats.
+70 HP, 27 MP, 3 Power, 3 Guard, 3 Magic, 3 Speed
+Normal LV Magic learn, Heal 1= 3, Ice 1= 6, Defense 1= 9, Purify= 12, Petrify= 15, Heal 2= 18, Revive 1= 21, Power= 25, Agility= 29, F.Shield= 34, MPCatcher= 39, Heal 3= 45, Exit= 51, Protect= 58, Revive 2= 65, Elixer= 73.
+LV UP
+3-5 HP, 2-4 MP, 0-2 Power, 1-3 Guard, 2-4 Magic, 2-4 Speed
+
+Lejes   
+Basique starter stats.
+75 HP, 27 MP, 3 Power, 3 Guard, 2 Magic, 3 Speed
+Normal LV Magic learn, Fire 1= 3, HPCatcher= 6, Ice 1= 9, Petrify= 12, Firebird= 15, Fire 2= 18, Defense 2= 21, Blizzard 1= 24, Ice 2= 27, Vacuum 1= 30, MPCatcher= 33, F.Shield= 36, Fireball= 39, Blizzard 2= 42, Protect= 45, vacuum 2= 48.
+LV UP
+3-5 HP, 2-4 MP, 1-3 Power, 1-3 Guard, 1-3 Magic, 2-4 Speed
+
+https://www.mediafire.com/file/1iqpm4hceoj7f1m/7th_SagaHardLife.rar/file
